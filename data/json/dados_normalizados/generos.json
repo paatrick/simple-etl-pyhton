@@ -1,0 +1,10 @@
+[
+  {
+    "id_genero": 1,
+    "nome_genero": "Masculino"
+  },
+  {
+    "id_genero": 2,
+    "nome_genero": "Feminino"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "matricula": "Matrícula do colaborador na AEB",
+    "nome": "Nome do colaborador",
+    "cargo": "Cargo do colaborador",
+    "cpf": "CPF mascarado do colaborador",
+    "fk_genero": "Gênero do colaborador apontado como chave estrangeira de outra tabela",
+    "fk_nacionalidade": "Nacionalidade do colaborador apontado como chave estrangeira de outra tabela",
+    "fk_data_admissao": "Data de admissão do colaborador na AEB apontado como chave estrangeira de outra tabela",
+    "fk_contrato": "Contrato que especifica o vínculo do colaborador com a AEB apontado como chave estrangeira de outra tabela",
+    "fk_escolaridade": "Escolaridade do colaborador apontado como chave estrangeira de outra tabela",
+    "id_contrato": "Identificador único do tipo de contrato",
+    "nome_contrato": "Nome do contrato apontado pelo identificador único",
+    "id_data": "Identificador único das datas",
+    "data": "Data que é representada pelo identificador único",
+    "id_escolaridade": "Identificador único de escolaridade",
+    "nome_escolaridade": "Nome escolar que é representado pelo identificador único",
+    "id_genero": "Identificador único do gênero",
+    "nome_genero": "Tipo de gênero representado pelo identificador único",
+    "id_nacionalidade": "Identificador único de nacionalidade",
+    "nome_nacionalidade": "Nacionalidade representada pelo identificador único"
+  }
+]

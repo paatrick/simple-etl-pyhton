@@ -1,0 +1,30 @@
+[
+  {
+    "id_escolaridade": 1,
+    "nome_escolaridade": "Superior Completo"
+  },
+  {
+    "id_escolaridade": 2,
+    "nome_escolaridade": "Superior Incompleto"
+  },
+  {
+    "id_escolaridade": 3,
+    "nome_escolaridade": "Pós Graduação"
+  },
+  {
+    "id_escolaridade": 4,
+    "nome_escolaridade": "Mestrado"
+  },
+  {
+    "id_escolaridade": 5,
+    "nome_escolaridade": "Doutorado"
+  },
+  {
+    "id_escolaridade": 6,
+    "nome_escolaridade": "Médio Completo"
+  },
+  {
+    "id_escolaridade": 7,
+    "nome_escolaridade": "Fundamental Completo"
+  }
+]

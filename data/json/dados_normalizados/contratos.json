@@ -1,0 +1,22 @@
+[
+  {
+    "id_contrato": 1,
+    "nome_contrato": "Efetivo"
+  },
+  {
+    "id_contrato": 2,
+    "nome_contrato": "Estagiário"
+  },
+  {
+    "id_contrato": 3,
+    "nome_contrato": "CLT"
+  },
+  {
+    "id_contrato": 4,
+    "nome_contrato": "Comissionado"
+  },
+  {
+    "id_contrato": 5,
+    "nome_contrato": "Estatuários"
+  }
+]
